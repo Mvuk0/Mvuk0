@@ -56,15 +56,5 @@ My focus: **driving revenue, automating reporting at scale, and turning data int
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mvuk0&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mvuk0&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
 ## 📫 Let’s Connect
 If you're into data, analytics, or building things that actually matter — let’s talk.
