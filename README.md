@@ -2,9 +2,7 @@
 
 **Specialist: Advanced Analytics | Customer Value Management (CVM) | Analytics Engineering**
 
-## 🧃 Fun Fact
-
-I don’t just “analyze data” — I interrogate it until it confesses.
+🧃 Fun Fact: I don’t just “analyze data” — I interrogate it until it confesses.
 
 ---
 
