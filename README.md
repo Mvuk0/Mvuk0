@@ -2,14 +2,15 @@
 
 **Specialist: Advanced Analytics | Customer Value Management (CVM) | Analytics Engineering**
 
-🧃 Fun Fact: I don’t just “analyze data” — I interrogate it until it confesses.
-
 ---
 
 ## 🚀 About Me
 I am an analytics professional working at the intersection of **commercial strategy, data engineering, and data science** within telecoms. I build and own end-to-end solutions — from translating business problems into targeting logic, to deploying models in live campaign environments.  
 
 My focus: **driving revenue, automating reporting at scale, and turning data into decisions that actually move the business.**
+
+
+🧃 Fun Fact: I don’t just “analyze data” — I interrogate it until it confesses.
 
 ---
 
