@@ -13,14 +13,6 @@ My focus: **driving revenue, automating reporting at scale, and turning data int
 I don’t just “analyze data” — I interrogate it until it confesses.
 
 ---
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mvuko-elelwani-rautshahalo-21072719b)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mvuk0_elelwani)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@mvuk0_elelwani)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mvuk0_elelwani)
-
----
 
 ## 💻 Tech Stack
 
@@ -44,3 +36,9 @@ I don’t just “analyze data” — I interrogate it until it confesses.
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+## 🌐 Lets connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mvuko-elelwani-rautshahalo-21072719b)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mvuk0_elelwani)
