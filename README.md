@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mvuko Rautshahalo
 
-**Specialist: Advanced Analytics | Customer Value Management (CVM) | Analytics Engineering**
+**Specialist: Advanced Analytics | Analytics Engineering**
 
 ---
 
@@ -10,15 +10,7 @@ I am an analytics professional working at the intersection of **commercial strat
 My focus: **driving revenue, automating reporting at scale, and turning data into decisions that actually move the business.**
 
 
-🧃 Fun Fact: I don’t just “analyze data” — I interrogate it until it confesses.
-
----
-
-## ⚡ What I’m About
-- Turning messy data into clean, production-ready pipelines  
-- Building models that actually get used (not just notebooks collecting dust)  
-- Bridging the gap between business and data teams  
-- Scaling analytics in real-world environments  
+I don’t just “analyze data” — I interrogate it until it confesses.
 
 ---
 ## 🌐 Socials
@@ -52,8 +44,3 @@ My focus: **driving revenue, automating reporting at scale, and turning data int
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📫 Let’s Connect
-If you're into data, analytics, or building things that actually matter — let’s talk.
