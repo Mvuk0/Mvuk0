@@ -9,9 +9,6 @@ I am an analytics professional working at the intersection of **commercial strat
 
 My focus: **driving revenue, automating reporting at scale, and turning data into decisions that actually move the business.**
 
-
-I don’t just “analyze data” — I interrogate it until it confesses.
-
 ---
 
 ## 💻 Tech Stack
